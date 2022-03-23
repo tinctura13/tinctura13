@@ -8,7 +8,17 @@
 - 👯 I enjoy playing board games with my wife and friends
 - 🐈‍🐈‍⬛ I care about two cats - Timur nad Potrokh 
 
-You can always find me
+
+You can always find me at  
+<a href="mailto:tinctura@gmail.com"><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/vladimir-semerikov/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /></a>
+<a href="https://t.me/thetyumenabbey"><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /></a>
+
+Tools  
+`python, flask, fastapi, docker, airflow, scikit-learn, pandas, pytorch, deep learning, transformers, fasttext`
+
+Fields of interest  
+`Currently working on NLP problems. Have huge interest in CV, AR/VR and GANs, open for collaborations`
 
 <!--
 **tinctura13/tinctura13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
