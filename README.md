@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup pals! I'm Vlad 👋
 
 <!--
 **tinctura13/tinctura13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
