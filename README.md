@@ -21,7 +21,7 @@
 
 
 ### Fields of interest  
-`Currently working on NLP problems. Have huge interest in CV, AR/VR and GANs, open for collaborations`
+`Currently working on NLP problems. Have huge interest in AR/VR and GANs, open for collaborations`
 
 <!--
 **tinctura13/tinctura13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
