@@ -17,7 +17,7 @@
 
 
 ### Tools  
-`python, flask, fastapi, docker, airflow, scikit-learn, pandas, pytorch, deep learning, transformers, fasttext`
+`python, scikit-learn, pandas, torch, fastapi, docker, airflow and so on`
 
 
 ### Fields of interest  
