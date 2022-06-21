@@ -3,7 +3,6 @@
 <h3 align="center">Machine learning engineer, student and cat lover 🐈🐈‍⬛</h3>
 
 - 🔭 I'm currently working on NLP projects
-- 🖼️ I'm willing to collaborate with an artists on something crazy using GANs 
 - 🌱 In my spare time I'm studying at MADE
 - 👯 I enjoy playing board games with my wife and friends
 - 🐈‍🐈‍⬛ I care about two cats - Timur nad Potrokh 
