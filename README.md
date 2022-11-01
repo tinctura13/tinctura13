@@ -3,7 +3,7 @@
 <h3 align="center">Machine learning engineer, student and cat lover 🐈🐈‍⬛</h3>
 
 - 🔭 I'm currently working on NLP projects
-- 🌱 In my spare time I'm studying at MADE
+- 🌱 In my spare time I'm studying somwthing new
 - 👯 I enjoy playing board games with my wife and friends
 - 🐈‍🐈‍⬛ I care about two cats - Timur nad Potrokh 
 
