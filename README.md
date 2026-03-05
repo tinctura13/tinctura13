@@ -1,4 +1,4 @@
-<h1 align="center">Sup! I'm Vlad
+<h1 align="center">Sup!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Machine learning engineer, life time learner and cat lover 🐈🐈‍⬛</h3>
 
